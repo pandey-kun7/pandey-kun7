@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+🌱 I’m currently learning **AI/ML**
+🚀 Getting started on **Github**
+🤝 **Contributions** are welcome! 
 <!--
 **pandey-kun7/pandey-kun7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
