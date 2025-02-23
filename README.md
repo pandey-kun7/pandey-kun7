@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI driven Libraries <br>👯 I’m looking to collaborate on various projects. <br>🌱 I’m currently learning AI/ML and Computer Architecture
+🔭 I’m currently working with AI driven Libraries <br>👯 I’m looking to collaborate on various projects. <br>🌱 I’m currently learning AI/ML and Computer Architecture
 
 
 ## 🌐 Socials:
